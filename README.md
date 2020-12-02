@@ -1,2 +1,2 @@
 # python-playground
-coding practice on various stuffs
+coding practice on various short tasks
